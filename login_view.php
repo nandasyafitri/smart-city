@@ -4,9 +4,7 @@
 <title>Login</title>
 </head>
 <body>
-  <div class="container">
-	<div class="row">
-	</div>
-</div> 
-</body>
+  <p>Login</p>
 </html>
+<footer>
+</footer>
