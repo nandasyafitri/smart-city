@@ -4,6 +4,6 @@
 <title>Login</title>
 </head>
 <body>
-  <h2>Login Aplikasi Smart City</h2>
+  <h2>Login</h2>
 </body>
 </html>
