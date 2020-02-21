@@ -5,7 +5,6 @@
 </head>
 <body>
   <p>Login</p>
-</body>
 </html>
 <footer>
 </footer>
