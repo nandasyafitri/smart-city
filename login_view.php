@@ -4,7 +4,8 @@
 <title>Login</title>
 </head>
 <body>
-  <h2>Login Aplikasi Smart City</h2>
-  </div>
+  <p>Login</p>
 </body>
 </html>
+<footer>
+</footer>
