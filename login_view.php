@@ -4,6 +4,9 @@
 <title>Login</title>
 </head>
 <body>
-  <p>Login</p>
+  <div class="container">
+    <div class="row">
+    </div>
+  </div>
 </body>
 </html>
